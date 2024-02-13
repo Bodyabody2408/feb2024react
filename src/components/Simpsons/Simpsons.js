@@ -1,3 +1,4 @@
+import {Simpson} from "./Simpson";
 const Simpsons = () => {
     let simpsons = [
         {
